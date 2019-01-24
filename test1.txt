@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is E0B6-A95A
+
+ Directory of D:\git_project
+
+01/24/2019  08:52 PM    <DIR>          .
+01/24/2019  08:52 PM    <DIR>          ..
+01/24/2019  08:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  147,736,645,632 bytes free
