@@ -1,0 +1,16 @@
+ Volume in drive D is Data
+ Volume Serial Number is E0B6-A95A
+
+ Directory of D:\git_project
+
+01/28/2019  10:37 PM    <DIR>          .
+01/28/2019  10:37 PM    <DIR>          ..
+01/28/2019  10:02 PM                54 hello.py
+01/24/2019  08:58 PM                 0 index.html
+01/28/2019  10:17 PM                 0 New Text Document.txt
+01/28/2019  10:25 PM                 0 temp.txt
+01/28/2019  10:37 PM                 0 tese.txt
+01/24/2019  08:57 PM               362 test1.txt
+01/24/2019  09:52 PM               434 test2.txt
+               7 File(s)            850 bytes
+               2 Dir(s)  147,736,625,152 bytes free
